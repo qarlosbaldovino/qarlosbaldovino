@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub.
 
 ## 🚀 Acerca de mí
 - 🎓 Estudiante de **Economía en la Universidad Nacional de Quilmes**.
-- 👩‍💻 Apasionado por la **tecnología** y las **películas**.
+- 👩‍💻 Apasionado por la **tecnología** y el **cine**.
 - 📈 Explorando herramientas como SQL, Power BI y Python para análisis avanzado.
 
 ## 📂 Mis proyectos
