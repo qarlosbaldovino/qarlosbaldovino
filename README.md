@@ -9,10 +9,10 @@ Bienvenido a mi perfil de GitHub.
 
 ## 📂 Mis proyectos
 
-### Proyectos de Power BI
+### Power BI
 - [Reporte Recursos Humanos Asistencia](https://github.com/qarlosbaldovino/HR_Project_PowerBI)
 
-### Proyectos de SQL
+### SQL
 - [Proyecto CRM](https://github.com/qarlosbaldovino/CRM_project)
 - [Control de Presencia](https://github.com/qarlosbaldovino/SistemaControlPresencia_SQL)
 - [Sistema de Salud](https://github.com/qarlosbaldovino/Healthcare_SQL)
