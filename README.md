@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Bienvenido a mi perfil de GitHub. 
+Bienvenida/o a mi perfil de GitHub. 
 
 ## 🚀 Acerca de mí
 - 🎓 Estudiante de **Economía en la Universidad Nacional de Quilmes**.
